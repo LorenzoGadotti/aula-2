@@ -1,2 +1,6 @@
 repositorio maquina versao 2
 
+teste 
+de
+alteraçao
+pelo git
